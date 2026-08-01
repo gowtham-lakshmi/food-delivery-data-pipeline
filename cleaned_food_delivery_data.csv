@@ -1,0 +1,21 @@
+order_id,restaurant_name,cuisine_type,order_amount,delivery_time_mins,city,payment_method,order_date,delivery_status,customer_rating
+FD2000,Chinese Wok,Desserts,1317.09,57,Madurai,UPI,27-07-2024,Cancelled,2.0
+FD2001,Biryani Zone,Chinese,2040.07,48,Coimbatore,Cash on Delivery,12-12-2024,Pending,1.0
+FD2002,Sweet House,Desserts,2478.28,55,Bangalore,UPI,09-09-2024,Delivered,2.0
+FD2003,Saravana Bhavan,Fast Food,1238.91,76,Coimbatore,Wallet,29-12-2024,Delivered,2.0
+FD2004,Pizza Corner,Chinese,2117.18,80,Chennai,upi,22-05-2024,Pending,2.0
+FD2005,Tandoori Nights,Desserts,195.91,42,Coimbatore,Cash on Delivery,21-10-2024,Delivered,2.0
+FD2006,Pizza Corner,Chinese,385.24,51,Coimbatore,UPI,25-01-2024,Cancelled,3.0
+FD2007,Chinese Wok,South Indian,2435.09,40,Unknown,unknown,26-06-2024,Delivered,2.0
+FD2008,Momo Point,Chinese,2332.35,70,Coimbatore,Wallet,12-04-2024,Cancelled,2.0
+FD2009,Saravana Bhavan,Chinese,2178.57,45,Madurai,unknown,01-02-2024,Pending,1.0
+FD2010,Tandoori Nights,Fast Food,723.14,27,Madurai,Cash on Delivery,13-01-2025,Cancelled,4.0
+FD2011,Burger King,Chinese,2369.63,68,Coimbatore,upi,14-12-2024,Delivered,3.0
+FD2012,Saravana Bhavan,North Indian,1530.35,22,Bangalore,Cash on Delivery,28-01-2024,Delivered,1.0
+FD2013,Pizza Corner,Chinese,621.57,52,Bangalore,unknown,15-07-2024,Cancelled,2.0
+FD2014,Sweet House,Fast Food,438.43,17,Madurai,unknown,03-07-2024,Delivered,2.0
+FD2015,Sweet House,South Indian,711.05,79,Chennai,unknown,05-04-2024,Pending,1.0
+FD2016,Pizza Corner,North Indian,1663.59,32,Unknown,unknown,31-08-2024,Delivered,2.0
+FD2017,Burger King,South Indian,126.32,82,Bangalore,Credit Card,13-06-2024,Pending,5.0
+FD2018,Pizza Corner,Fast Food,1727.65,61,Unknown,Cash on Delivery,25-07-2024,Pending,5.0
+FD2019,Tandoori Nights,South Indian,848.58,67,Bangalore,Wallet,13-05-2024,Delivered,1.0
